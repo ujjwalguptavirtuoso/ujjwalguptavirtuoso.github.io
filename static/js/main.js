@@ -9344,7 +9344,7 @@
             (0, a.jsx)("div", {
               className: "about-class",
               children:
-                " I'm a strong advocate of the #AdoptDontShop movement and have spent eight years caring for sick and injured animals. During my undergraduate years, I was actively involved in a student-run volunteer group dedicated to feeding and providing healthcare to stray animals on our campus. In my leisure time, I indulge in fiction, with thrillers being my preferred genre. Additionally, I have dedicated six years to professional training in Carnatic music, demonstrating my commitment to excellence in various facets of life. ",
+                "I was part of the National Social Service (Awareness Cell) during my undergraduate years. I organized and participated in multiple street plays performed in the rural areas of India on sensitive issues like sanitation, women's education, and child labor. I have been an active musician for more than 15 years, playing instruments like guitar, piano, and trumpet, with a penchant for jazz and R&B music.",
             }),
             (0, a.jsxs)("div", {
               className: "skills",
