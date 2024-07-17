@@ -10567,7 +10567,7 @@
                       className: "col-sm-2 justify-content-center left-panel",
                       children: [
                         (0, a.jsx)("img", {
-                          className: "fakeimg no-zoom",
+                          className: "fakeimg2 no-zoom",
                           src: "/assets/images/profile-pic-ujjwal.png",
                           alt: "Profile",
                         }),
