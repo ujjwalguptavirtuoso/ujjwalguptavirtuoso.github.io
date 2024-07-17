@@ -751,8 +751,8 @@ input[type="range"]::-ms-fill-lower {
   width: 200px;
 }
 .fakeimg2 {
-    width: 100px;  /* adjust based on your needs */
-    height: 100px; /* make height equal to width */
+    width: 200px;  /* adjust based on your needs */
+    height: 200px; /* make height equal to width */
     border-radius: 0; /* removes any rounding of corners */
     object-fit: cover; /* helps maintain aspect ratio without distorting the image */
   }
