@@ -9598,20 +9598,20 @@
                   className: "d-flex",
                   children: [
                     (0, a.jsx)("img", {
-                      src: "/assets/images/logos/nitt.png",
-                      alt: "NIT Trichy",
+                      src: "/assets/images/logos/IITRoorkeeLogo.png",
+                      alt: "IIT Roorkee",
                       className: "company-icon",
                     }),
                     (0, a.jsx)("div", {
                       className: "d-flex ms-2",
                       children: (0, a.jsx)("h5", {
                         children:
-                          "National Institute of Technology Tiruchirappalli",
+                          "Indian Institute of Technology Roorkee",
                       }),
                     }),
                   ],
                 }),
-                (0, a.jsx)("em", { children: "July '16 - Jun '20" }),
+                (0, a.jsx)("em", { children: "Jul '13 - May '17" }),
               ],
             }),
             (0, a.jsx)("div", {
@@ -9626,27 +9626,21 @@
                       children: [
                         (0, a.jsx)("b", {
                           children:
-                            "Bachelor of Technology in Instrumentation and Control Engineering",
+                            "Bachelor of Technology in Materials Science And Engineering",
                         }),
-                        " (GPA: 8.41 / 10.0)",
-                        (0, a.jsx)("br", {}),
-                        (0, a.jsx)("br", {}),
-                        (0, a.jsx)("b", {
-                          children: "Minor in Computer Science and Engineering",
-                        }),
-                        " (GPA: 8.6 / 10.0)",
+                        " (GPA: 7.5 / 10.0)",
                         (0, a.jsx)("br", {}),
                         (0, a.jsx)("br", {}),
                         (0, a.jsx)("b", { children: "Coursework:" }),
-                        " Data Structures and Algorithms, Operating Systems, Database Management System, Computer Organization, Software Engineering, Big Data Analytics, Neural Networks and Fuzzy Logic, Digital Electronics, Microprocessors and Microcontrollers",
+                        " Data Structures and Algorithms, Computer Programming, Engineering Design Analysis, Introduction to Electronics, Numerical Methods, Linear Algebra",
                       ],
                     }),
                   }),
                   (0, a.jsx)("div", {
                     className: "col-6",
                     children: (0, a.jsx)("img", {
-                      src: "/assets/images/university/nitt.jpeg",
-                      alt: "NIT Trichy",
+                      src: "/assets/images/university/IITRoorkeeMainBuilding.jpeg",
+                      alt: "IIT Roorkee",
                       className: "university-img-portrait",
                     }),
                   }),
