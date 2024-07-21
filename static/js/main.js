@@ -9370,13 +9370,28 @@
                     }),
                     (0, a.jsx)("img", {
                       className: "skill-logo",
-                      src: "/assets/skills/cpp.svg",
-                      alt: "cpp",
+                      src: "/assets/skills/java.svg",
+                      alt: "java",
                     }),
                     (0, a.jsx)("img", {
                       className: "skill-logo",
                       src: "/assets/skills/python.svg",
                       alt: "python",
+                    }),
+                    (0, a.jsx)("img", {
+                      className: "skill-logo",
+                      src: "/assets/skills/cpp.svg",
+                      alt: "cpp",
+                    }),
+                    (0, a.jsx)("img", {
+                      className: "skill-logo",
+                      src: "/assets/skills/js.svg",
+                      alt: "js",
+                    }),
+                    (0, a.jsx)("img", {
+                      className: "skill-logo",
+                      src: "/assets/skills/c.svg",
+                      alt: "c",
                     }),
                     (0, a.jsx)("img", {
                       className: "skill-logo",
@@ -9387,26 +9402,6 @@
                       className: "skill-logo",
                       src: "/assets/skills/css.svg",
                       alt: "css",
-                    }),
-                    (0, a.jsx)("img", {
-                      className: "skill-logo",
-                      src: "/assets/skills/java.svg",
-                      alt: "java",
-                    }),
-                    (0, a.jsx)("img", {
-                      className: "skill-logo",
-                      src: "/assets/skills/js.svg",
-                      alt: "js",
-                    }),
-                    (0, a.jsx)("img", {
-                      className: "skill-logo",
-                      src: "/assets/skills/ts.svg",
-                      alt: "ts",
-                    }),
-                    (0, a.jsx)("img", {
-                      className: "skill-logo",
-                      src: "/assets/skills/c.svg",
-                      alt: "c",
                     }),
                   ],
                 }),
@@ -9427,6 +9422,12 @@
                       src: "/assets/skills/react.svg",
                       alt: "react",
                     }),
+                    (0, a.jsx)("img", {
+                      className: "skill-logo",
+                      src: "/assets/skills/kafka-svgrepo-com.svg",
+                      alt: "kafka",
+                    }),
+                    kafka-svgrepo-com
                     (0, a.jsx)("img", {
                       className: "skill-logo",
                       src: "/assets/skills/spring.svg",
