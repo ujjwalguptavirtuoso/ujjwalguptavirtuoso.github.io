@@ -9429,6 +9429,11 @@
                     }),
                     (0, a.jsx)("img", {
                       className: "skill-logo",
+                      src: "/assets/skills/elasticsearch.svg",
+                      alt: "elasticsearch",
+                    }),
+                    (0, a.jsx)("img", {
+                      className: "skill-logo",
                       src: "/assets/skills/bootstrap.svg",
                       alt: "bootstrap",
                     }),
