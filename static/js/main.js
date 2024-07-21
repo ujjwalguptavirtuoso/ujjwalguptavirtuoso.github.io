@@ -9746,7 +9746,7 @@
                     (0, a.jsx)("img", {
                       src: "/assets/images/logos/WalmartLogo.png",
                       alt: "Railinc Corp",
-                      className: "company-icon",
+                      className: "company-icon2",
                     }),
                     (0, a.jsxs)("div", {
                       className: "d-flex ms-2",
@@ -9814,23 +9814,23 @@
                   className: "d-flex",
                   children: [
                     (0, a.jsx)("img", {
-                      src: "/assets/images/logos/citi.jpg",
-                      alt: "Citi",
-                      className: "company-icon",
+                      src: "/assets/images/logos/GEHealthcareLogo.png",
+                      alt: "GE Healthcare",
+                      className: "company-icon2",
                     }),
                     (0, a.jsxs)("div", {
                       className: "d-flex ms-2",
                       children: [
-                        (0, a.jsx)("h5", { children: "Citi" }),
+                        (0, a.jsx)("h5", { children: "GE Healthcare" }),
                         (0, a.jsx)("p", {
                           className: "ms-1",
-                          children: " - Software Development Intern",
+                          children: " - Software Engineer",
                         }),
                       ],
                     }),
                   ],
                 }),
-                (0, a.jsx)("em", { children: "May '19 - Jul '19" }),
+                (0, a.jsx)("em", { children: "Feb '19 - Jun '19" }),
               ],
             }),
             (0, a.jsx)("div", {

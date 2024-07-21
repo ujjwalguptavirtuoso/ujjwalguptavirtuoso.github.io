@@ -962,7 +962,11 @@ img:hover {
 }
 .company-icon {
   height: 30px;
-  width: 60px;
+  width: 80px;
+}
+.company-icon2 {
+  height: 30px;
+  width: 120px;
 }
 .project-col {
   padding: 0 !important;
