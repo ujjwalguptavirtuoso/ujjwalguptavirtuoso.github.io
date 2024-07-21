@@ -9427,7 +9427,6 @@
                       src: "/assets/skills/kafka-svgrepo-com.svg",
                       alt: "kafka-svgrepo-com",
                     }),
-                    kafka-svgrepo-com
                     (0, a.jsx)("img", {
                       className: "skill-logo",
                       src: "/assets/skills/spring.svg",
