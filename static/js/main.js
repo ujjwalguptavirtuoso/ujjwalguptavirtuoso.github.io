@@ -9395,6 +9395,11 @@
                     }),
                     (0, a.jsx)("img", {
                       className: "skill-logo",
+                      src: "/assets/skills/r.svg",
+                      alt: "r",
+                    }),
+                    (0, a.jsx)("img", {
+                      className: "skill-logo",
                       src: "/assets/skills/html.svg",
                       alt: "html",
                     }),

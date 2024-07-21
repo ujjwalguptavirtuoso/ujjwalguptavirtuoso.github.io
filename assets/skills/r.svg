@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97.5" height="28" role="img" aria-label="R">
+  <title>R</title>
+  <g shape-rendering="crispEdges">
+    <rect width="97.5" height="28" fill="#276DC3"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+    <image x="9" y="7" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UjwvdGl0bGU+PHBhdGggZD0iTTAsMkg0VjBIMFYyaDZ2Mkg0djJoNlY0SDZ2MkgwdjJIMFY0SDJWMTAuNUw2LDZoMlY0aDRWMEgyMHYyaC0yVjZoLTRWNmg0djZoLTR2LTJoLTJ2LTRsLTRsNC40LTIuNFYyem04LDEyaDJ2LTRoLTR2NEg4eiIvPjwvc3ZnPg=="/>
+    <text transform="scale(.1)" x="587.5" y="175" textLength="250" fill="#fff" font-weight="bold">R</text>
+  </g>
+</svg>
