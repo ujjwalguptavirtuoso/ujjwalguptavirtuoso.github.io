@@ -9688,14 +9688,14 @@
                     children: (0, a.jsxs)("div", {
                       className: "coursework",
                       children: [
-                        "94.8% in CBSE board examination conducted in 2016 and received Academic Achievement Award for the same ",
+                        "93.6% (Physics, Chemistry, Maths) in CBSE board examination conducted in 2012 and received Academic Achievement Award for the same ",
                         (0, a.jsx)("br", {}),
                         (0, a.jsx)("br", {}),
-                        "Secured an All India Rank of 9858 among 1.2 million students in JEE Mains 2016 ",
+                        "Secured an All India Rank of 4569 among 1.2 million students in JEE Advanced 2013 to secure admission at IIT Roorkee ",
                         (0, a.jsx)("br", {}),
                         (0, a.jsx)("br", {}),
                         (0, a.jsx)("b", { children: "Coursework:" }),
-                        " Computer Science, Mathematics, Physics, Chemistry, English",
+                        "Mathematics, Physics, Chemistry, English and Economics",
                       ],
                     }),
                   }),
@@ -9744,23 +9744,23 @@
                   className: "d-flex",
                   children: [
                     (0, a.jsx)("img", {
-                      src: "/assets/images/logos/railinc.jpg",
+                      src: "/assets/images/logos/WalmartLogo.png",
                       alt: "Railinc Corp",
                       className: "company-icon",
                     }),
                     (0, a.jsxs)("div", {
                       className: "d-flex ms-2",
                       children: [
-                        (0, a.jsx)("h5", { children: "Railinc Corp" }),
+                        (0, a.jsx)("h5", { children: "Walmart Labs (Walmart Global Tech)" }),
                         (0, a.jsx)("p", {
                           className: "ms-1",
-                          children: " - Software Engineering Intern",
+                          children: " - Senior Software Engineer",
                         }),
                       ],
                     }),
                   ],
                 }),
-                (0, a.jsx)("em", { children: "Jun '23 - Aug '23" }),
+                (0, a.jsx)("em", { children: "Oct '22 - Dec '24" }),
               ],
             }),
             (0, a.jsx)("div", {
@@ -9775,23 +9775,23 @@
                   className: "d-flex",
                   children: [
                     (0, a.jsx)("img", {
-                      src: "/assets/images/logos/citi.jpg",
+                      src: "/assets/images/logos/paytmLogo.png",
                       alt: "Citi",
                       className: "company-icon",
                     }),
                     (0, a.jsxs)("div", {
                       className: "d-flex ms-2",
                       children: [
-                        (0, a.jsx)("h5", { children: "Citi" }),
+                        (0, a.jsx)("h5", { children: "Paytm" }),
                         (0, a.jsx)("p", {
                           className: "ms-1",
-                          children: " - Software Developer",
+                          children: " - Senior Software Engineer",
                         }),
                       ],
                     }),
                   ],
                 }),
-                (0, a.jsx)("em", { children: "Aug '20 - Jul '22" }),
+                (0, a.jsx)("em", { children: "Jul '19 - Sep '22" }),
               ],
             }),
             (0, a.jsxs)("div", {
