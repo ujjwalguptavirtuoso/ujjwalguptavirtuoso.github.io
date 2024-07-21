@@ -9414,16 +9414,6 @@
                     }),
                     (0, a.jsx)("img", {
                       className: "skill-logo",
-                      src: "/assets/skills/angular.svg",
-                      alt: "angular",
-                    }),
-                    (0, a.jsx)("img", {
-                      className: "skill-logo",
-                      src: "/assets/skills/react.svg",
-                      alt: "react",
-                    }),
-                    (0, a.jsx)("img", {
-                      className: "skill-logo",
                       src: "/assets/skills/kafka-svgrepo-com.svg",
                       alt: "kafka-svgrepo-com",
                     }),
@@ -9461,6 +9451,16 @@
                       className: "skill-logo",
                       src: "/assets/skills/spark.svg",
                       alt: "spark",
+                    }),
+                    (0, a.jsx)("img", {
+                      className: "skill-logo",
+                      src: "/assets/skills/angular.svg",
+                      alt: "angular",
+                    }),
+                    (0, a.jsx)("img", {
+                      className: "skill-logo",
+                      src: "/assets/skills/react.svg",
+                      alt: "react",
                     }),
                   ],
                 }),
