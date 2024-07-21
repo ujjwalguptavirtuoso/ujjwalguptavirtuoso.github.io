@@ -9546,7 +9546,7 @@
                     (0, a.jsx)("img", {
                       src: "/assets/images/logos/umass.png",
                       alt: "UMass Amherst",
-                      className: "company-icon",
+                      className: "university-icon",
                     }),
                     (0, a.jsx)("div", {
                       className: "d-flex ms-2",
@@ -9600,7 +9600,7 @@
                     (0, a.jsx)("img", {
                       src: "/assets/images/logos/IITRoorkeeLogo.png",
                       alt: "IIT Roorkee",
-                      className: "company-icon",
+                      className: "university-icon",
                     }),
                     (0, a.jsx)("div", {
                       className: "d-flex ms-2",
