@@ -9704,28 +9704,6 @@
                 ],
               }),
             }),
-            (0, a.jsx)("h2", {
-              className: "",
-              id: "academic",
-              children: "Academic Experience",
-            }),
-            (0, a.jsx)("hr", {}),
-            (0, a.jsxs)("div", {
-              className: "d-flex justify-content-between",
-              children: [
-                (0, a.jsxs)("div", {
-                  className: "d-flex",
-                  children: [
-                    (0, a.jsx)("h5", {
-                      className: "pe-1",
-                      children: "Grading Assistant ",
-                    }),
-                    " - CS 520: Theory and Practice of Software Engineering",
-                  ],
-                }),
-                (0, a.jsx)("em", { children: "Feb '24 - May '24" }),
-              ],
-            }),
           ],
         });
       };
