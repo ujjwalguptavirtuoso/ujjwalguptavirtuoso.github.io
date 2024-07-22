@@ -9768,7 +9768,7 @@
             (0, a.jsx)("div", {
               className: "work-project-content",
               children:
-                "In October 2022, I began working as a senior software engineer at Walmart Global Tech (previously Walmart Labs). In my first year, I developed an A/B testing framework to assess the performance of marketing campaigns, which served over 100 million ads. This initiative significantly informed Walmart’s ad-bidding algorithm and enhanced the Return on Ad Spend (RoAS) by 9% post-production. Going forward, I redesigned the backend architecture for Search Engine Marketing’s ad-bidding tool. By migrating the legacy Ruby on Rails code to a microservice-based architecture and integrating caching, BigQuery, and GraphQL, I successfully reduced latencies by 25%, thereby optimizing the tool's performance and efficiency. I also developed a back-end pipeline in Airflow to gather data from various data sources in Hive and aggregate it on a daily basis in BigQuery to present Search Engine Marketing's data on an interactive analytics dashboard.",
+                "In October 2022, I began working as a Senior Software Engineer at Walmart Global Tech (previously Walmart Labs). In my first year, I developed an A/B testing framework to assess the performance of marketing campaigns, which served over 100 million ads. This initiative significantly informed Walmart’s ad-bidding algorithm and enhanced the Return on Ad Spend (RoAS) by 9% post-production. Going forward, I redesigned the backend architecture for Search Engine Marketing’s ad-bidding tool. By migrating the legacy Ruby on Rails code to a microservice-based architecture and integrating caching, BigQuery, and GraphQL, I successfully reduced latencies by 25%, thereby optimizing the tool's performance and efficiency. I also developed a back-end pipeline in Airflow to gather data from various data sources in Hive and aggregate it on a daily basis in BigQuery to present Search Engine Marketing's data on an interactive analytics dashboard.",
             }),
             (0, a.jsxs)("div", {
               className: "d-flex justify-content-between",
@@ -9799,7 +9799,7 @@
             (0, a.jsxs)("div", {
               className: "work-project-content",
               children: [
-                "At Paytm, I was tasked with several critical initiatives that significantly improved system performance and integration. I implemented a rate-limiting mechanism for the settlements service using the token-bucket algorithm to meet rate-limited constraints set by bank channels. By leveraging cache to maintain and allocate tokens, I reduced transaction retry failures by ",
+                "I worked at Paytm (Payment Gateway) as a Senior Software engineer for more than 3 years. I was tasked with several critical initiatives that significantly improved system performance and system integrations. I implemented a rate-limiting mechanism for the settlements service using the token-bucket algorithm to meet rate-limited constraints set by bank channels. By leveraging cache to maintain and allocate tokens, I reduced transaction retry failures by ",
                 (0, a.jsx)("b", { children: "70%. " }),
                 "Additionally, I streamlined the daily merchant settlement cycle from 4 hours to 1.5 hours by developing a real-time consumer to store merchant state prior to processing, which improved the settlement timeline for over 15 million merchants.",
                 (0, a.jsx)("br", {}),
@@ -9836,7 +9836,7 @@
             (0, a.jsx)("div", {
               className: "work-project-content",
               children:
-                "During my internship at Citi in the summer of 2019, I was involved with a proof of concept which aimed at being the alternative for TIBCO BW based workflows. The idea was to leverage event-driven architecture of Java using RxJava to trigger the steps of the workflow. I migrated a component that cached trade details from TIBCO BW to Java. I used Spring Boot and developed it as a standalone service and used multi-threading to optimize performance by a factor of 1.5.",
+                "At GE Healthcare, I developed an extendable application called Click Tracer, designed to recreate the operator action sequence for MRI (Magnetic Resonance Imaging) systems. This tool was pivotal in diagnosing and addressing system usability issues, leading to an estimated 30% reduction in system crash complaints in production. ",
             }),
             (0, a.jsxs)("div", {
               className: "d-flex justify-content-between",
@@ -9867,7 +9867,7 @@
             (0, a.jsx)("div", {
               className: "work-project-content",
               children:
-                "During my internship at Virtusa in the summer of 2019, I was involved with a proof of concept which aimed at being the alternative for TIBCO BW based workflows. The idea was to leverage event-driven architecture of Java using RxJava to trigger the steps of the workflow. I migrated a component that cached trade details from TIBCO BW to Java. I used Spring Boot and developed it as a standalone service and used multi-threading to optimize performance by a factor of 1.5.",
+                "At Virtusa, I played a key role in the development of a visualization tool designed to group contextually related mobile-network infrastructure alerts, aimed at enhancing operational efficiency. By leveraging Kafka for data streaming and Druid for real-time analytics, this tool significantly reduced the Mean Time to Resolution from 6 hours to 2 hours.",
             }),
           ],
         });
