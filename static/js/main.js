@@ -9560,7 +9560,7 @@
                     }),
                     (0, a.jsx)("div", {
                       className: "d-flex ms-2",
-                      children: (0, a.jsx)("h5", {
+                      children: (0, a.jsx)("h7", {
                         children: "University of Massachusetts Amherst",
                       }),
                     }),
@@ -9614,7 +9614,7 @@
                     }),
                     (0, a.jsx)("div", {
                       className: "d-flex ms-2",
-                      children: (0, a.jsx)("h5", {
+                      children: (0, a.jsx)("h7", {
                         children:
                           "Indian Institute of Technology Roorkee",
                       }),
@@ -9670,9 +9670,9 @@
                     }),
                     (0, a.jsx)("div", {
                       className: "d-flex ms-2",
-                      children: (0, a.jsx)("h5", {
+                      children: (0, a.jsx)("h7", {
                         children:
-                          "Central Board of Secondary Enducation (CBSE)",
+                          "Central Board of Secondary Education (CBSE)",
                       }),
                     }),
                   ],

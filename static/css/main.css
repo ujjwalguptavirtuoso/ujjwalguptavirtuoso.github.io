@@ -969,8 +969,8 @@ img:hover {
   width: 120px;
 }
 .university-icon {
-  height: 30px;
-  width: 30px;
+  height: 37px;
+  width: 37px;
 }
 .project-col {
   padding: 0 !important;
@@ -1347,6 +1347,10 @@ h5 {
 .h6,
 h6 {
   font-size: 1rem;
+}
+.h7,
+h7 {
+  font-size: 1.5rem;
 }
 p {
   margin-bottom: 1rem;
