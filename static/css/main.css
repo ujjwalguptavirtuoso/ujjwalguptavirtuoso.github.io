@@ -961,10 +961,14 @@ img:hover {
   text-align: justify;
 }
 .company-icon {
-  height: 30px;
+  height: 27px;
   width: 80px;
 }
 .company-icon2 {
+  height: 25px;
+  width: 120px;
+}
+.company-icon3 {
   height: 30px;
   width: 120px;
 }
