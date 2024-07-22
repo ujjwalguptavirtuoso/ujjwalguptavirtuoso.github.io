@@ -9429,11 +9429,6 @@
                     }),
                     (0, a.jsx)("img", {
                       className: "skill-logo",
-                      src: "/assets/skills/elasticsearch.svg",
-                      alt: "elasticsearch",
-                    }),
-                    (0, a.jsx)("img", {
-                      className: "skill-logo",
                       src: "/assets/skills/bootstrap.svg",
                       alt: "bootstrap",
                     }),
@@ -9490,6 +9485,11 @@
                       className: "skill-logo",
                       src: "/assets/skills/postgres.svg",
                       alt: "postgres",
+                    }),
+                    (0, a.jsx)("img", {
+                      className: "skill-logo",
+                      src: "/assets/skills/elasticsearch.svg",
+                      alt: "elasticsearch",
                     }),
                   ],
                 }),
@@ -9664,20 +9664,20 @@
                   className: "d-flex",
                   children: [
                     (0, a.jsx)("img", {
-                      src: "/assets/images/logos/jawahar.png",
-                      alt: "Jawahar",
-                      className: "company-icon",
+                      src: "/assets/images/logos/CBSELogo.png",
+                      alt: "CBSE",
+                      className: "university-icon",
                     }),
                     (0, a.jsx)("div", {
                       className: "d-flex ms-2",
                       children: (0, a.jsx)("h5", {
                         children:
-                          "Jawahar Higher Secondary School (CBSE) Neyveli",
+                          "Central Board of Secondary Enducation (CBSE)",
                       }),
                     }),
                   ],
                 }),
-                (0, a.jsx)("em", { children: "Jun '14 - May '16" }),
+                (0, a.jsx)("em", { children: "" }),
               ],
             }),
             (0, a.jsx)("div", {
@@ -9685,14 +9685,6 @@
               children: (0, a.jsxs)("div", {
                 className: "row",
                 children: [
-                  (0, a.jsx)("div", {
-                    className: "col-6",
-                    children: (0, a.jsx)("img", {
-                      src: "/assets/images/university/high-school.jpg",
-                      alt: "Jawahar",
-                      className: "university-img left-align-media",
-                    }),
-                  }),
                   (0, a.jsx)("div", {
                     className: "col-6",
                     children: (0, a.jsxs)("div", {
@@ -9704,7 +9696,7 @@
                         "Secured an All India Rank of 4569 among 1.2 million students in JEE Advanced 2013 to secure admission at IIT Roorkee ",
                         (0, a.jsx)("br", {}),
                         (0, a.jsx)("br", {}),
-                        (0, a.jsx)("b", { children: "Coursework:" }),
+                        (0, a.jsx)("b", { children: "Coursework: " }),
                         "Mathematics, Physics, Chemistry, English and Economics",
                       ],
                     }),
