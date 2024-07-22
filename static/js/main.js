@@ -9747,7 +9747,7 @@
                   children: [
                     (0, a.jsx)("img", {
                       src: "/assets/images/logos/WalmartLogo.png",
-                      alt: "Railinc Corp",
+                      alt: "Walmart Labs",
                       className: "company-icon2",
                     }),
                     (0, a.jsxs)("div", {
@@ -9768,7 +9768,7 @@
             (0, a.jsx)("div", {
               className: "work-project-content",
               children:
-                "I worked at Railinc Corp as a Software Engineering intern in the summer of 2023. I was involved in the enhancement of dashboard application that kept track of components that were running on the AWS. The application helps visualize how components of different types on AWS are being used by teams across Railinc. I engineered end-to-end logic using Angular, HTML, CSS, TypeScript and Java to move all or a subset of related components from one component to another while maintaining the component type-type relationship between them. I also wrote logics using PostgreSQL to filter components based on whether they were in service, region and based on whether or not the component was independent or had any dependent components.",
+                "In October 2022, I began working as a senior software engineer at Walmart Global Tech (previously Walmart Labs). In my first year, I developed an A/B testing framework to assess the performance of marketing campaigns, which served over 100 million ads. This initiative significantly informed Walmart’s ad-bidding algorithm and enhanced the Return on Ad Spend (RoAS) by 9% post-production. Going forward, I redesigned the backend architecture for Search Engine Marketing’s ad-bidding tool. By migrating the legacy Ruby on Rails code to a microservice-based architecture and integrating caching, BigQuery, and GraphQL, I successfully reduced latencies by 25%, thereby optimizing the tool's performance and efficiency. I also developed a back-end pipeline in Airflow to gather data from various data sources in Hive and aggregate it on a daily basis in BigQuery to present Search Engine Marketing's data on an interactive analytics dashboard.",
             }),
             (0, a.jsxs)("div", {
               className: "d-flex justify-content-between",
