@@ -9816,7 +9816,7 @@
                     (0, a.jsx)("img", {
                       src: "/assets/images/logos/GEHealthcareLogo.png",
                       alt: "GE Healthcare",
-                      className: "company-icon3",
+                      className: "company-icon2",
                     }),
                     (0, a.jsxs)("div", {
                       className: "d-flex ms-2",
@@ -9847,7 +9847,7 @@
                     (0, a.jsx)("img", {
                       src: "/assets/images/logos/VirtusaLogo.png",
                       alt: "GE Healthcare",
-                      className: "company-icon3",
+                      className: "company-icon2",
                     }),
                     (0, a.jsxs)("div", {
                       className: "d-flex ms-2",
