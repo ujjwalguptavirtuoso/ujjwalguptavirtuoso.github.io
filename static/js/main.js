@@ -9973,7 +9973,7 @@
                       height: "315",
                       className: "project-img right-align-media",
                       title: "super-conductor-temp-prediction",
-                      src: "https://drive.google.com/drive/folders/1J_0jz2kwBK4pCruOMQ9V5llmMUXBBYoH/preview",
+                      src: "https://drive.google.com/file/d/1-eWCYPh_EgTtE0JouvYYrDS8OiR5Fuc_/preview",
                     }),
                   }),
                 ],
