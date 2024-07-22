@@ -9799,14 +9799,12 @@
             (0, a.jsxs)("div", {
               className: "work-project-content",
               children: [
-                "After graduation from my undergraduate degree, I joined the Unified Desktop team of Citi as a Technical Analyst. I was involved with development of micro frontend applications which were in the conceptual stage. I developed internal functionalities as Angular micro frontend applications using HTML, CSS, TypeScript and single-spa which helped with feature modularization, easy code distribution and thereby reduced development and maintenance overhead. The applications were developed once and used across teams. This change of technology also helped reduce the load time of the applications by 60% and I was given the ",
-                (0, a.jsx)("b", { children: "Takes Ownership" }),
-                " award for my work on this project. I was also involved with pilot implementation of App Dynamics end user monitoring for the application to analyze the performance of users' end-to-end workflow and received the ",
-                (0, a.jsx)("b", { children: "Succeeds Together" }),
-                " award for the same.",
+                "At Paytm, I was tasked with several critical initiatives that significantly improved system performance and integration. I implemented a rate-limiting mechanism for the settlements service using the token-bucket algorithm to meet rate-limited constraints set by bank channels. By leveraging cache to maintain and allocate tokens, I reduced transaction retry failures by ",
+                (0, a.jsx)("b", { children: "70%. " }),
+                "Additionally, I streamlined the daily merchant settlement cycle from 4 hours to 1.5 hours by developing a real-time consumer to store merchant state prior to processing, which improved the settlement timeline for over 15 million merchants.",
                 (0, a.jsx)("br", {}),
                 (0, a.jsx)("br", {}),
-                "During my second year at Citi, I was promoted to the role of Tech Program App Dev 1 and I also guided other teams with the development of micro frontend applications and made sure their applications followed business standards. I gave various Knowledge Transfer sessions to share my knowledge of Angular and the distributed architecture with other teams across Citi. I also helped onboard new employees and guided them while they got accustomed to the team. Throughout my time at Citi, I documented all the setup and technical details involved with my project which helped with my seamless exit to pursure my Master's degree.",
+                "Furthermore, I implemented a summary accounting mechanism for handling hot partition transactions in databases asynchronously, which increased the request-serving capacity of the accounting service by 45%. I also led the engineering delivery for the NPCI (National Payment Corporation of India) qSPARC project, where I played a pivotal role in integrating Paytm’s payment network with the national metro (travel) payments network, efficiently handling traffic of more than 30,000 payments per minute.",
               ],
             }),
             (0, a.jsxs)("div", {
