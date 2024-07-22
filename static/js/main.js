@@ -9936,9 +9936,9 @@
                   className: "d-flex",
                   children: (0, a.jsxs)("h5", {
                     children: [
-                      "Stock Recommendation System",
+                      "Prediction of Superconductors Temperature",
                       (0, a.jsx)("a", {
-                        href: "https://github.com/Greenleaf20/spark-stock-market-analysis",
+                        href: "https://github.com/ujjwalguptavirtuoso/spark-superconductor-critical-temp-prediction",
                         target: "_blank",
                         rel: "noreferrer",
                         children: (0, a.jsx)("img", {
@@ -9963,7 +9963,7 @@
                     children: (0, a.jsx)("div", {
                       className: "project-content-with-media",
                       children:
-                        "I developed this application during the Systems for Data Science course in Spring 2023. I designed a stock recommendation system using Python that analyzes historical data using PySpark. I used LSTM, Random Forest and Factorization Machine models from SparkMLLib and PyTorch to predict the closing price of stocks. Among these the LSTM model performed the best in terms of Mean Squared Error and I used it to predict the closing price. I also built a dashboard  for the users to easily view the historical trend for each stock.",
+                        "I developed this application during the Systems for Data Science course in Spring 2024. I designed a critical temperature prediction system using Python that analyzes historical data using PySpark. I used different batch sizes of data with Decision Tree Regressor, Random Forest Regressor and Gradient Boosted Tree Machine Learning models from SparkMLLib and PyTorch to predict the critical temperatures of the superconductors. Compared and analyzed the performance and latencies of different batch sizes with Spark.",
                     }),
                   }),
                   (0, a.jsx)("div", {
@@ -9972,8 +9972,8 @@
                       width: "420",
                       height: "315",
                       className: "project-img right-align-media",
-                      title: "stock-prediction",
-                      src: "https://drive.google.com/file/d/1YhKnynxBedzgzpiZxm2-QTzoksC0Tsie/preview",
+                      title: "super-conductor-temp-prediction",
+                      src: "https://drive.google.com/drive/folders/1J_0jz2kwBK4pCruOMQ9V5llmMUXBBYoH/preview",
                     }),
                   }),
                 ],
