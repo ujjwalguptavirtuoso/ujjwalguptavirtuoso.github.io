@@ -9838,6 +9838,37 @@
               children:
                 "During my internship at Citi in the summer of 2019, I was involved with a proof of concept which aimed at being the alternative for TIBCO BW based workflows. The idea was to leverage event-driven architecture of Java using RxJava to trigger the steps of the workflow. I migrated a component that cached trade details from TIBCO BW to Java. I used Spring Boot and developed it as a standalone service and used multi-threading to optimize performance by a factor of 1.5.",
             }),
+            (0, a.jsxs)("div", {
+              className: "d-flex justify-content-between",
+              children: [
+                (0, a.jsxs)("div", {
+                  className: "d-flex",
+                  children: [
+                    (0, a.jsx)("img", {
+                      src: "/assets/images/logos/VirtusaLogo.png",
+                      alt: "GE Healthcare",
+                      className: "company-icon2",
+                    }),
+                    (0, a.jsxs)("div", {
+                      className: "d-flex ms-2",
+                      children: [
+                        (0, a.jsx)("h5", { children: "Virtusa" }),
+                        (0, a.jsx)("p", {
+                          className: "ms-1",
+                          children: " - Software Engineer",
+                        }),
+                      ],
+                    }),
+                  ],
+                }),
+                (0, a.jsx)("em", { children: "Jul '17 - Jan '19" }),
+              ],
+            }),
+            (0, a.jsx)("div", {
+              className: "work-project-content",
+              children:
+                "During my internship at Virtusa in the summer of 2019, I was involved with a proof of concept which aimed at being the alternative for TIBCO BW based workflows. The idea was to leverage event-driven architecture of Java using RxJava to trigger the steps of the workflow. I migrated a component that cached trade details from TIBCO BW to Java. I used Spring Boot and developed it as a standalone service and used multi-threading to optimize performance by a factor of 1.5.",
+            }),
           ],
         });
       };
