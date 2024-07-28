@@ -10352,9 +10352,7 @@
             (0, a.jsx)("hr", {}),
             (0, a.jsxs)("p", {
               children: [
-                "In my free time I read a lot of ",
-                (0, a.jsx)("span", { children: "\ud83d\udcda" }),
-                ", especially thrillers. I have read nearly 350 books (and counting!!). One of my favorite authors is Robert Dugoni and I am a few books away from completing all his books. I am also a huge fan of legal thrillers of Michael Connelly and John Grisham. Every year I participate in the Goodreads reading challenge and one of my proudest years is 2021 when I read 61 books. Being a huge fan of the Lord of the Rings movies, I am currently reading the Tolkien's Lord of the Rings Trilogy.",
+                "I'm really passionate about music and in my free time I like to play, listen and compose music. I have been playing guitar for more than 15 years and have also tried my musical skills at piano and trumpet in the last 3 years. I have been a part of 2 rock bands and have won various competitions in the past few years. I am currently learning how to do jazz improvisation with trumpet and piano and also hope to take some formal training in jazz improvisation in future.",
               ],
             }),
             (0, a.jsxs)("div", {
@@ -10363,12 +10361,12 @@
                 (0, a.jsx)("img", {
                   className: "social-pics-l",
                   alt: "2021 reading challenge",
-                  src: "/assets/images/social/2021-reading.png",
+                  src: "/assets/images/social/Ujjwal_Guitar.png",
                 }),
                 (0, a.jsx)("img", {
                   className: "social-pics-p",
                   alt: "Jane Austen award",
-                  src: "/assets/images/social/jane-austen-award.jpeg",
+                  src: "/assets/images/social/Ujjwal_trumpet.jpg",
                 }),
               ],
             }),
