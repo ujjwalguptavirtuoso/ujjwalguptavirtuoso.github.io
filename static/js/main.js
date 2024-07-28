@@ -9595,6 +9595,8 @@
                         (0, a.jsx)("br", {}),
                         (0, a.jsx)("b", { children: "Coursework:" }),
                         " Systems for Data Science,  System Defense and Test, Data Science Fundamentals, Machine Learning, Distributed and Operating Systems (Upcoming Semester)",
+                        (0, a.jsx)("br", {}),
+                        (0, a.jsx)("a", { href: "/assets/files/UnofficialTranscript_UMassAmherst.pdf", children: "Download Transcript" }),
                       ],
                     }),
                   }),
@@ -10359,12 +10361,12 @@
               className: "social-pics-div",
               children: [
                 (0, a.jsx)("img", {
-                  className: "social-pics-l",
+                  className: "social-pics-l social-pics-size",
                   alt: "2021 reading challenge",
                   src: "/assets/images/social/Ujjwal_Guitar.png",
                 }),
                 (0, a.jsx)("img", {
-                  className: "social-pics-p",
+                  className: "social-pics-p social-pics-size",
                   alt: "Jane Austen award",
                   src: "/assets/images/social/Ujjwal_trumpet.jpg",
                 }),
@@ -10479,7 +10481,7 @@
                           className: "nav-item",
                           children: (0, a.jsx)("a", {
                             className: "nav-link button trans",
-                            href: "/assets/files/Ujjwal_Resume.pdf",
+                            href: "/assets/files/Ujjwal_Resume_Internship.pdf",
                             target: "_blank",
                             rel: "noreferrer",
                             children: "Resume",

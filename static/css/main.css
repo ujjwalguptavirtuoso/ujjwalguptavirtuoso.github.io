@@ -1037,6 +1037,10 @@ img:hover {
 .social-text {
   text-align: justify;
 }
+.social-pics-size {
+  width: 350px;
+  height: 350px;
+}
 .repo-img {
   height: 25px;
   margin-left: 5px;
