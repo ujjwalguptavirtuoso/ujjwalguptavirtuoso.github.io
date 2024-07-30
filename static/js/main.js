@@ -10385,34 +10385,12 @@
                 (0, a.jsx)("img", {
                   className: "social-pics-p",
                   alt: "archana with dogs",
-                  src: "/assets/images/social/archana-dogs.jpeg",
+                  src: "/assets/images/social/archana-do.jpeg",
                 }),
                 (0, a.jsx)("img", {
                   className: "social-pics-l",
                   alt: "animal welfare club",
-                  src: "/assets/images/social/animal-welfare-club.jpg",
-                }),
-              ],
-            }),
-            (0, a.jsxs)("p", {
-              children: [
-                "I am amazed by ",
-                (0, a.jsx)("span", { children: "\ud83e\udd95" }),
-                " and am a huge fan of the Jurassic Park and Jurassic World franchise. I visited the Dinosaur Footprints in Massachusetts which were left by some of the earliest known dinosaurs in the Connecticut River Valley region. Below is a picture of me at the historic area and at the North Carolina  museum of natural sciences with a T-Rex.",
-              ],
-            }),
-            (0, a.jsxs)("div", {
-              className: "social-pics-div",
-              children: [
-                (0, a.jsx)("img", {
-                  className: "social-pics-p",
-                  alt: "NC museum of natural science",
-                  src: "/assets/images/social/nc-museum.jpeg",
-                }),
-                (0, a.jsx)("img", {
-                  className: "social-pics-p",
-                  alt: "dino footprint reservation",
-                  src: "/assets/images/social/dino-footprint.jpeg",
+                  src: "/assets/images/social/animal-welfare-c.jpg",
                 }),
               ],
             }),
