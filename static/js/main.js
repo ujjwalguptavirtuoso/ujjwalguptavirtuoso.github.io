@@ -10289,49 +10289,10 @@
           children: [
             (0, a.jsx)("h2", {
               className: "heading",
-              id: "awards",
-              children: "Awards",
+              id: "research",
+              children: "Research",
             }),
             (0, a.jsx)("hr", {}),
-            (0, a.jsx)("p", {
-              children:
-                "I was given the Takes Ownership award by Citi in March 2022 for my work developing Angular micro frontends in the Unified Desktop team. I spent 2 glorious years in the team and developed a great deal of technical as well as leadership skills.",
-            }),
-            (0, a.jsxs)("div", {
-              className: "awards-div",
-              children: [
-                (0, a.jsx)("img", {
-                  className: "award",
-                  src: "/assets/images/awards/takes-ownership.png",
-                  alt: "takesownership",
-                }),
-                (0, a.jsx)("img", {
-                  className: "award",
-                  src: "/assets/images/awards/succeeds-together.png",
-                  alt: "succeedstogether",
-                }),
-              ],
-            }),
-            "I was given a Certificate of Reviewing by Elsevier for my contribution to the Computers in Biology and Medicine journal.",
-            (0, a.jsx)("div", {
-              className: "awards-div",
-              children: (0, a.jsx)("img", {
-                className: "award",
-                src: "/assets/images/awards/review-cert.png",
-                alt: "reviewcert",
-              }),
-            }),
-            "I was the second among girls in the CBSE 10",
-            (0, a.jsx)("sup", { children: "th" }),
-            " national public examination in my school and I received the Academic Achievement Award and cash compensation as well.",
-            (0, a.jsx)("div", {
-              className: "awards-div",
-              children: (0, a.jsx)("img", {
-                className: "award",
-                src: "/assets/images/awards/academic-achievement.jpeg",
-                alt: "academicachievement",
-              }),
-            }),
           ],
         });
       };
@@ -10470,7 +10431,7 @@
                           children: (0, a.jsx)("span", {
                             className: "nav-link button trans",
                             onClick: () => p("awards"),
-                            children: "Awards",
+                            children: "Research",
                           }),
                         }),
                         (0, a.jsx)("li", {
