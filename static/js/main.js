@@ -10333,28 +10333,6 @@
                 }),
               ],
             }),
-            (0, a.jsxs)("p", {
-              children: [
-                "I ",
-                (0, a.jsx)("span", { className: "heart", children: "\u2665" }),
-                " dogs and most animals. I grew up playing with and helping the needy stray dogs in my hometown Neyveli. As I matured, I realized the sufferings they endured on the streets and set out on a campaign for adoption of as many of the dogs as possible. Ever since, I have been an active monetary contributor and supporter of the Animal Birth Control (ABC) campaign. When I joined my undergraduate degree, I saw much of the same suffering there as well. A few of us like minded people at the university decided to start an Animal Welfare Club at the university which aimed at feeding, vaccinating and providing health care for stray animals in the area. With funds from many such enthusiasts at the university which included professors as well, we were able to install water pots in the area. With the generous contribution from BowChow SuperDog, we were able to feed nutritious food to the dogs at the university. Below are the pictures of me with my team and my furry friends.",
-              ],
-            }),
-            (0, a.jsxs)("div", {
-              className: "social-pics-div",
-              children: [
-                (0, a.jsx)("img", {
-                  className: "social-pics-p",
-                  alt: "archana with dogs",
-                  src: "/assets/images/social/archana-do.jpeg",
-                }),
-                (0, a.jsx)("img", {
-                  className: "social-pics-l",
-                  alt: "animal welfare club",
-                  src: "/assets/images/social/animal-welfare-c.jpg",
-                }),
-              ],
-            }),
           ],
         });
       };
