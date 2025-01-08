@@ -9920,16 +9920,16 @@
                 (0, a.jsx)("div", {
                   className: "d-flex",
                   children: (0, a.jsx)("h5", {
-                    children: "Stock Trading System",
+                    children: "Distributed Market",
                   }),
                 }),
-                (0, a.jsx)("em", { children: "Feb '23 - May '23" }),
+                (0, a.jsx)("em", { children: "Sep '24 - Dec '24" }),
               ],
             }),
             (0, a.jsx)("div", {
               className: "project-content",
               children:
-                "I developed this application during the Distributed and Operating Systems course in Spring 2023. I desgined a 3-tier stock trading server using Python which can handle requests from various clients using a thread-pool model. I replicated the services and selected a leader for them using a bully leader election algorithm. The requests from the frontend is sent to the leader which then maintained consistency between the replicas in order to handle failure gracefully. I also handled leader failure by initiating re-election when the leader does not respond. I implemented a LRU cache at the top level to cache lookup requests and this led to a decrease in the latency.",
+                "I developed this application during the Distributed and Operating Systems course in Fall 2024. I desgined a distributed market where buyers, sellers and traders behave as different processes/servers and can handle concurrent requests from various clients using a thread-pool model. We made a fault tolerant system using replication techniques and selected a leader for them using a bully leader election algorithm. The requests from the frontend is sent to the leader which then maintained consistency between the replicas in order to handle failures gracefully. I also implemented leader failover by initiating re-election when the leader does not respond. I implemented a LRU cache following an eventual consistency model at the top level to cache the buy/sell requests which led to a decrease in latency and improvement in the performance of the system.",
             }),
             (0, a.jsxs)("div", {
               className: "d-flex justify-content-between",
