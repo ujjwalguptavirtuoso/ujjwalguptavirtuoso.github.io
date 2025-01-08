@@ -9955,7 +9955,7 @@
                 (0, a.jsx)("em", { children: "Feb '23 - May '23" }),
               ],
             }),
-            (0, a.jsx)("div", {
+           /* (0, a.jsx)("div", {
               className: "container",
               children: (0, a.jsxs)("div", {
                 className: "row",
@@ -10276,10 +10276,10 @@
                       title: "pingpong",
                       src: "https://drive.google.com/file/d/1Pf2xXOjj4CIUUPqF0H1Ys3MLYypKkmPo/preview",
                     }),
-                  }),
+                  }), 
                 ],
-              }),
-            }),
+              }), 
+            }), */
           ],
         });
       };
