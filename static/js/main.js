@@ -10398,7 +10398,7 @@
                           className: "nav-item",
                           children: (0, a.jsx)("a", {
                             className: "nav-link button trans",
-                            href: "/assets/files/Ujjwal_Resume_SWE.pdf",
+                            href: "/assets/files/Ujjwal_Gupta_Resume.pdf",
                             target: "_blank",
                             rel: "noreferrer",
                             children: "Resume",
