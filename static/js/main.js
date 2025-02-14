@@ -9577,7 +9577,7 @@
                   (0, a.jsx)("div", {
                     className: "col-6",
                     children: (0, a.jsx)("img", {
-                      src: "/assets/images/university/umass.jpeg",
+                      src: "/assets/images/university/UMass_Ujjwal.jpg",
                       alt: "UMass Amherst",
                       className: "university-img left-align-media",
                     }),
@@ -9594,7 +9594,7 @@
                         (0, a.jsx)("br", {}),
                         (0, a.jsx)("br", {}),
                         (0, a.jsx)("b", { children: "Coursework:" }),
-                        " Systems for Data Science,  System Defense and Test, Data Science Fundamentals, Machine Learning, Distributed and Operating Systems (Upcoming Semester)",
+                        " Systems for Data Science,  System Defense and Test, Data Science Fundamentals, Machine Learning, Distributed and Operating Systems, Optimizations for Computer Science, Software Engineering",
                         (0, a.jsx)("br", {}),
                         (0, a.jsx)("a", { href: "/assets/files/UnofficialTranscript_UMassAmherst.pdf", children: "Download Transcript" }),
                       ],
